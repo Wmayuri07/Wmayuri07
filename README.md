@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Waghamre Mayuri, a passionate Computer Science Engineering student. I love diving into code and exploring new technologies.
+- 👋 Hi, I’m Waghamre Mayuri, a passionate Computer Science Engineering student. Exploring new technologies.
 - 
 - 👀 I’m interested in WEB DEVELOPMENT :-
 -  FRONTEND HTML, CSS, JAVASCRIPT
