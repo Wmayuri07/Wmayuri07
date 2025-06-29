@@ -1,6 +1,9 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F766B6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mayuri+Waghmare;Full+Stack+Java+Developer;Tech+Explorer+%7C+Open+Source+Lover;Welcome+to+my+GitHub+Profile!" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F766B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mayuri+Waghmare;Full+Stack+Java+Developer;Tech+Explorer+%7C+Open+Source+Lover;Welcome+to+my+GitHub+Profile!" 
+    alt="Typing animation introducing Mayuri Waghmare" 
+  />
 </p>
 
 ---
